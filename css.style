@@ -1,0 +1,42 @@
+body {
+    font-family: sans-serif;
+    background-image: url('https://кадастр44.рф/images/stroitelstvo-zdanii-i-sooruze-399.jpg');
+}
+a {
+   font-size: 25px;
+   text-decoration: none; 
+}
+header h1{
+    color: olive;
+    margin-right: 400px;
+
+}
+img {
+    width: 1000px;
+    height: 125px;
+    
+    
+    
+}
+main p {
+    font-size: 25px;
+    color: black;
+}
+
+    
+
+header {
+    background-color: orange;
+    padding: 1px;
+    border-radius: 50px;
+
+}
+nav h1 {
+    font-size: 30px;
+    
+    
+}
+
+
+
+    
